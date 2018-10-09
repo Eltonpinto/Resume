@@ -1,3 +1,4 @@
 # Resume
 Biodata
-Hi this is a edit file to learn about branch commits.
+Hi this biodata is updated in Oct 2018. 
+Includes CLD certification details, H1b visa details
